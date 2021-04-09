@@ -1,0 +1,9 @@
+com\mytoshika\entity\User.class
+com\mytoshika\repository\UserRepository.class
+com\mytoshika\repository\RoleRepository.class
+com\mytoshika\App.class
+com\mytoshika\service\UserService.class
+com\mytoshika\entity\Role.class
+com\mytoshika\configuration\SecurityConfiguation.class
+com\mytoshika\configuration\WebMvcConfig.class
+com\mytoshika\rest\LoginController.class
